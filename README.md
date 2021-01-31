@@ -1,4 +1,5 @@
 
+
 # eSynergy Special Interest Group for AWS (SIG-AWS)
 
 <p align="center">
@@ -16,6 +17,8 @@ eSynergy SIG-AWS facilitates collaboration to discover and produce resources tha
 - [Last Week in AWS](https://www.lastweekinaws.com/)
 - [Curated list of awesome lists](https://project-awesome.org/donnemartin/awesome-aws)
 - [Awesome AWS Workshops](https://awesome-aws-workshops.com/)
+
+## About eSynergy
 
 ## Our Values and Code of Conduct
 
