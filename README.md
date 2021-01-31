@@ -1,13 +1,21 @@
 
 # eSynergy Special Interest Group for AWS (SIG-AWS)
 
-## Quick links
-
-- [Example1](#example)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
+</p>
 
 ## Objective
 
-eSynergy SIG-AWS facilitates collaboration to discover and produce resources that enable  <TODO>
+eSynergy SIG-AWS facilitates collaboration to discover and produce resources that enable `<TODO>`
+
+## Get Involved / How To Contribute
+
+## Links
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+- [Last Week in AWS](https://www.lastweekinaws.com/)
+- [Curated list of awesome lists](https://project-awesome.org/donnemartin/awesome-aws)
+- [Awesome AWS Workshops](https://awesome-aws-workshops.com/)
 
 ## Our Values and Code of Conduct
 
