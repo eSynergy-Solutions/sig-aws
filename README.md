@@ -8,9 +8,15 @@
 
 ## Objective
 
-eSynergy SIG-AWS facilitates collaboration to discover and produce resources that enable `<TODO>`
+eSynergy SIG-AWS facilitates collaboration to discover, share and solve your key challenges and questions vis-a-vis AWS.
 
 ## Get Involved / How To Contribute
+
+Want to get involved? Try:
+
+- Creating an [issue](https://github.com/eSynergy-Solutions/sig-aws/issues) (don't forget to add a label!)
+- Something on your mind? Start a new [discussion](https://github.com/eSynergy-Solutions/sig-aws/discussions)
+- Want to contribute? Get involved! Update the `README.md` and add some more awesome links by creating a [pull request](https://github.com/eSynergy-Solutions/sig-aws/pulls)
 
 ## Links
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
