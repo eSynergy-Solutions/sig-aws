@@ -20,6 +20,8 @@ eSynergy SIG-AWS facilitates collaboration to discover and produce resources tha
 
 ## About eSynergy
 
+eSynergy Solutions is a technology consultancy, delivering business value from cloud computing.  Our services revolve around three areas; cloud adoption, cloud native software development and data engineering. We work with government bodies, financial service organisations and high-growth startups across the UK, supporting them day in and day out to achieve and exceed their digital transformation goals.
+
 ## Our Values and Code of Conduct
 
 ### Values
