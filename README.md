@@ -3,7 +3,7 @@
 # eSynergy Special Interest Group for AWS (SIG-AWS)
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" with="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" with="50">
 </p>
 
 ## Objective
